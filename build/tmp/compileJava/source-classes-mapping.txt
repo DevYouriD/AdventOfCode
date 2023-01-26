@@ -1,0 +1,18 @@
+adventofcode/day6/Main.java
+ adventofcode.day6.Main
+adventofcode/day2/Main.java
+ adventofcode.day2.Main
+adventofcode/day1/Main.java
+ adventofcode.day1.Main
+adventofcode/day3/Main.java
+ adventofcode.day3.Main
+adventofcode/day4/Main.java
+ adventofcode.day4.Main
+adventofcode/day8/Main.java
+ adventofcode.day8.Main
+adventofcode/day9/Main.java
+ adventofcode.day9.Main
+adventofcode/day5/Main.java
+ adventofcode.day5.Main
+adventofcode/day7/Main.java
+ adventofcode.day7.Main
