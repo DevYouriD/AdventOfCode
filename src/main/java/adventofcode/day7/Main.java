@@ -16,8 +16,6 @@ public class Main {
         try (BufferedReader bufferedReader = new BufferedReader(new FileReader(PATH.toString()))) {
             while ((line = bufferedReader.readLine()) != null) {
                 System.out.println(line);
-                System.out.println("Hallo Youri");
-                System.out.println("Hallo Youri");
             }
         } catch (Exception e) {
             System.out.println(e.toString());
